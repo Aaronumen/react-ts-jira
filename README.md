@@ -44,3 +44,16 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+# commitlint规范
+
+## feat：新功能（feature）
+## fix：修补bug
+## docs：文档（documentation）
+## style： 格式（不影响代码运行的变动）
+
+## test：增加测试
+## chore：构建过程或辅助工具的变动
+## upgrade： 第三方库升级
+## revert：回滚
+
