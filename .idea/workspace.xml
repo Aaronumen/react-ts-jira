@@ -1,16 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d15187d1-1035-4a6a-a002-57b3977d184e" name="Default Changelist" comment="" />
+    <list default="true" id="d15187d1-1035-4a6a-a002-57b3977d184e" name="Default Changelist" comment="fix: 第三次">
+      <change afterPath="$PROJECT_DIR$/__json_server_mock__/middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/preject-list/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/project-list/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/preject-list/list.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/project-list/list.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/preject-list/search-panel.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/project-list/search-panel.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/index.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1se1kSth6AWilF9a8sWY3kdQfwr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,12 +48,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jsx.switch.disabled" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\jira\node_modules\prettier" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="ts.external.directory.path" value="C:\jira\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -35,11 +68,42 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621218383892</updated>
-      <workItem from="1621218387964" duration="1114000" />
+      <workItem from="1621218387964" duration="3248000" />
+      <workItem from="1621231314619" duration="7954000" />
+      <workItem from="1621239355497" duration="1720000" />
+      <workItem from="1621322577388" duration="1013000" />
+      <workItem from="1621332021344" duration="2201000" />
+      <workItem from="1621393882013" duration="7863000" />
+      <workItem from="1621412738378" duration="5988000" />
+      <workItem from="1621495093145" duration="13000" />
+      <workItem from="1621495154407" duration="255000" />
+      <workItem from="1621497054287" duration="5521000" />
+      <workItem from="1621503352869" duration="1052000" />
+      <workItem from="1621504429846" duration="2269000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix: 第三次" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: 第三次" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
